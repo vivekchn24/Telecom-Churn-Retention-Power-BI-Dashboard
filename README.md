@@ -51,3 +51,8 @@ An in-depth dashboard that analyzes customer churn behavior in the telecom secto
 ## 📌 Disclaimer
 This project is for My learning and demonstration purposes only. Dataset is based on publicly available Telecom education data.
 
+📎 This project does not include business insights. It is intended for practice only.
+
+⚠️ Important: The code, analysis, and outputs in this project are not to be copied and used elsewhere, including in resumes or other projects that's why i attached images only.The goal of this project is to practice and improve my skills, not to provide ready-to-use solutions.
+
+-->Feel free to refer to the attached files for practice and understanding the concepts. This project is meant to showcase my personal learning journey through Power-Bi Dashboard Practice and you can use it as a reference to practice and enhance your skills in data analysis.
